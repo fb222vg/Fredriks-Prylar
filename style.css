@@ -6,3 +6,64 @@ body {
 h1 {
     color: rgb(181, 236, 29);
 }
+#Wrapper {
+background-color: rgb(198, 207, 198);
+width: 75%;
+padding:20px;
+display: grid;
+
+
+
+}
+#wrapper div {
+    border: 6px solid;
+    padding:10px;
+    
+}
+#box1 {
+    background-color: blueviolet;
+}
+#box2 {
+    background-color: darkgrey;
+}
+#box3 {
+    background-color: red;
+}
+#box4 {
+    background-color: rgb(129, 155, 35);
+}
+#box5 {
+    background-color: white;
+}
+#box6 {
+    background-color: turquoise;
+}
+#box7 {
+background-color: teal;
+}
+#box8 {
+background-color: rgb(13, 245, 83);
+}
+#box9 {
+background-color: violet;
+
+}
+#box10 {
+    background-color: yellow;
+
+}
+#box11 {
+background-color: silver;
+}
+#box12 {
+background-color: lightsalmon;
+}
+#box13 {
+background-color: darkred;
+}
+#box14 {
+background-color: slategray;
+}
+#box15 {
+background-color: tan;
+}
